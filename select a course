@@ -109,10 +109,10 @@
 
     <script>
         const navLinks = document.getElementById("navLinks");
-        function showMenu() {
+        function show Menu() {
             navLinks.style.right = "0";
         }
-        function hideMenu() {
+        function hide Menu() {
             navLinks.style.right = "-200px";
         }
 
