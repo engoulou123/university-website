@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheets" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
     <header class="sub-header">
@@ -45,7 +45,7 @@
     </main>
 
     <footer class="footer">
-        <h4>About Us</h4>
+        <h4>About Us </h4>
         <p>At Infinity IT University, we are dedicated to fostering innovation by encouraging African youth to strive for excellence and global leadership in technology education, empowering them to shape the future of the digital world.</p>
         <div class="icons">
             <a href="#"><i class="fab fa-facebook fa-2x"></i></a>
